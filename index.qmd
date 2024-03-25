@@ -16,6 +16,8 @@
 
 ## Authorship
 - Chungil Chae @chadchae
+- V
+- Owen
 
 ### Acknowledgement
 - tba
