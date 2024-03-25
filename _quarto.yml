@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 book:
-  title: "Work-Life Balance"
+  title: "PROJECT TITLE"
   author: "Chungil Chae"
   date: today
   date-format: "ddd, D MMMM YYYY"
